@@ -44,6 +44,16 @@ I’m passionate about defensive security, threat detection, and incident respon
 - Wrote Python script to simulate ransomware decryption
 - Investigated network traffic anomalies to detect security threats
 
+  ## 💻 Featured Project
+  ###  Open-Source Web Vulnerability Assessment
+  -  Led a vulnerability assessment of a web application using Nmap,  identifying and prioritizing 15+ critical and high-risk vulnerabilities aligned with OWASP
+ Top 10.
+-Utilized VirusTotal to enrich threat intelligence by scanning URLs and IPs, uncovering 3 previously undetected malware/phishing flags, enhancing the
+ accuracy of risk assessment.
+- Produced a comprehensive vulnerability report with detailed findings and actionable recommendations, which reduced potential attack surface by 30% when
+ implemented.
+-Collaborated with the IT team to validate findings and support remediation efforts, improving system security posture within a 2-week remediation cycle.
+
 ### TCS Cybersecurity Analyst Simulation
 - Worked on IAM principles with a virtual consulting team
 - Drafted strategic remediation documents
