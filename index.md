@@ -1,123 +1,96 @@
 ---
 layout: default
+title: Cybersecurity Portfolio
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+Welcome to my **Cybersecurity Portfolio** 👨‍💻🔐
 
-[Link to another page](./another-page.html).
+---
 
-There should be whitespace between paragraphs.
+I am a B.Tech student (4th semester) and an aspiring **SOC Analyst**, actively building hands-on experience and a strong foundation in cybersecurity operations, tools, and frameworks.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+---
 
-# Header 1
+## 🧠 About Me
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I’m passionate about defensive security, threat detection, and incident response. Currently upskilling through real-world simulations, platform-based labs, and industry-recognized certifications to enter the cybersecurity field with a Blue Team focus.
 
-## Header 2
+---
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## 🎓 Education
 
-### Header 3
+**Bachelor of Technology (B.Tech)** — M.S.RAMAIAH INSTITUTE OF TECHNOLOGY 
+4th Semester | BENGALURU, KARNATAKA, India | Expected Graduation: 2027
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+**Diploma in Computer Engineering** — S.J(GOVERNMENT) POLYTECHNIC 
+*Completed: June 2024 | CGPA: 9.4*
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+---
 
-#### Header 4
+## 📜 Certifications
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+- **Google Cybersecurity Professional Certificate** – Coursera *(Apr 2025)*
+- **TCS Cybersecurity Analyst Job Simulation** – Forage
+- **AIG Shields Up Cybersecurity Virtual Experience** – Forage
+- **TryHackMe** – SOC Level 1 Path *(In Progress)*
 
-##### Header 5
+---
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+## 🧪 Projects & Simulations
 
-###### Header 6
+### AIG Shields Up: Cybersecurity Simulation
+- Conducted threat analysis using CISA advisories
+- Identified vulnerabilities and developed remediation guidance
+- Wrote Python script to simulate ransomware decryption
+- Investigated network traffic anomalies to detect security threats
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+### TCS Cybersecurity Analyst Simulation
+- Worked on IAM principles with a virtual consulting team
+- Drafted strategic remediation documents
+- Applied GRC alignment to IAM solutions
 
-### There's a horizontal rule below this.
+---
 
-* * *
+## 🔧 Technical Skills
 
-### Here is an unordered list:
+- **SIEM Tools**: Splunk (Basic), Log Analysis
+- **Programming**: Python (Scripts for automation & ethical hacking)
+- **Networking**: TCP/IP, DNS, VPN, Common Protocols
+- **OS**: Linux (Basic), Windows OS
+- **Frameworks**: MITRE ATT&CK, NIST CSF
+- **Soft Skills**: Communication, Documentation, Problem Solving
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+---
 
-### And an ordered list:
+## 💡 Labs & Platforms
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+- [TryHackMe](https://tryhackme.com/) – Cyber Defence, SOC Analyst Path
+- [Splunk Security Essentials](https://splunkbase.splunk.com/app/3435/)
 
-### And a nested list:
+---
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+## 🗂️ Resume & LinkedIn
 
-### Small image
+- [📄 Download My Resume](./Cybersecurity_Resume.pdf)
+- [🔗 View my LinkedIn Profile](https://www.linkedin.com/in/c-sai-bala-krishna-5109b5265/)
+---
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+## 📝 Blog Highlights
 
-### Large image
+### Google Cybersecurity Certificate: Key Takeaways
+- Explored SOC operations, IAM, Linux, SQL & Python basics
+- Completed peer-reviewed security analysis assignments
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+### TCS Simulation: IAM in Practice
+- Drafted policy remediation reports aligned with real-world IAM controls
 
+### AIG Simulation: Active Threat Analysis
+- Simulated ransomware response using a custom Python script
 
-### Definition lists can be used with HTML syntax.
+---
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+> “Cybersecurity is much more than a matter of IT.” – Stephane Nappo
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+---
 
-```
-The final element.
-```
+Thanks for visiting my portfolio! 🚀
