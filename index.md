@@ -49,15 +49,15 @@ I’m passionate about defensive security, threat detection, and incident respon
 - Drafted strategic remediation documents
 - Applied GRC alignment to IAM solutions
 
-  ## 💻 Featured Project
+ ## 💻 Featured Project
   ###  Open-Source Web Vulnerability Assessment
   -  Led a vulnerability assessment of a web application using Nmap,  identifying and prioritizing 15+ critical and high-risk vulnerabilities aligned with OWASP
  Top 10.
-- Utilized VirusTotal to enrich threat intelligence by scanning URLs and IPs, uncovering 3 previously undetected malware/phishing flags, enhancing the
+  - Utilized VirusTotal to enrich threat intelligence by scanning URLs and IPs, uncovering 3 previously undetected malware/phishing flags, enhancing the
  accuracy of risk assessment.
-- Produced a comprehensive vulnerability report with detailed findings and actionable recommendations, which reduced potential attack surface by 30% when
+  - Produced a comprehensive vulnerability report with detailed findings and actionable recommendations, which reduced potential attack surface by 30% when
  implemented.
-- Collaborated with the IT team to validate findings and support remediation efforts, improving system security posture within a 2-week remediation cycle.
+  - Collaborated with the IT team to validate findings and support remediation efforts, improving system security posture within a 2-week remediation cycle.
 
 
 
