@@ -3,27 +3,25 @@ layout: default
 title: Cybersecurity Portfolio
 ---
 
-Welcome to my **Cybersecurity Portfolio** 👨‍💻🔐
+# 👨‍💻🔐 Welcome to My Cybersecurity Portfolio
 
----
-
-I am a B.Tech student (4th semester) and an aspiring **SOC Analyst**, actively building hands-on experience and a strong foundation in cybersecurity operations, tools, and frameworks.
+I am a fourth-semester B.Tech student and an aspiring SOC Analyst. I am actively building hands-on experience and a strong foundation in cybersecurity operations, tools, and frameworks.
 
 ---
 
 ## 🧠 About Me
 
-I’m passionate about defensive security, threat detection, and incident response. Currently upskilling through real-world simulations, platform-based labs, and industry-recognized certifications to enter the cybersecurity field with a Blue Team focus.
+Passionate about defensive security, threat detection, and incident response. Currently upskilling through real-world simulations, labs, and industry-recognized certifications focused on Blue Team cybersecurity.
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Technology (B.Tech)** — M.S.RAMAIAH INSTITUTE OF TECHNOLOGY 
-4th Semester | BENGALURU, KARNATAKA, India | Expected Graduation: 2027
+**Bachelor of Technology (B.Tech)** — *M.S. Ramaiah Institute of Technology*  
+4th Semester | Bengaluru, Karnataka, India | Expected Graduation: 2027
 
-**Diploma in Computer Engineering** — S.J(GOVERNMENT) POLYTECHNIC 
-*Completed: June 2024 | CGPA: 9.4*
+**Diploma in Computer Engineering** — *S.J. (Government) Polytechnic*  
+Completed: June 2024 | CGPA: 9.4
 
 ---
 
@@ -44,44 +42,40 @@ I’m passionate about defensive security, threat detection, and incident respon
 - Wrote Python script to simulate ransomware decryption
 - Investigated network traffic anomalies to detect security threats
 
-  ### TCS Cybersecurity Analyst Simulation
+### TCS Cybersecurity Analyst Simulation
 - Worked on IAM principles with a virtual consulting team
 - Drafted strategic remediation documents
 - Applied GRC alignment to IAM solutions
 
 ### Data Leak Investigation Simulation  
 **Program:** Google Cybersecurity Certificate  
-**Type:** Hands‑on lab activity  
-**Description:**  
-- Investigated unusual file transfers and suspicious access logs  
-- Mapped the leak timeline using metadata  
-- Recommended mitigation steps (privilege reviews, audit logging)  
+**Type:** Hands-on lab activity  
+- Investigated unusual file transfers and suspicious access logs
+- Mapped the leak timeline using metadata
+- Recommended mitigation steps (privilege reviews, audit logging)
 - Documented the incident with structured evidence summaries  
-**Skills Applied:**  
-`Incident Response`, `Log Analysis`, `Insider Threat Investigation`, `Security Controls`, `Technical Documentation`  
+**Skills Applied:** `Incident Response`, `Log Analysis`, `Insider Threat Investigation`, `Security Controls`, `Technical Documentation`
 
- ## 💻 Featured Project
-  ###  Open-Source Web Vulnerability Assessment
-  -  Led a vulnerability assessment of a web application using Nmap,  identifying and prioritizing 15+ critical and high-risk vulnerabilities aligned with OWASP
- Top 10.
-  - Utilized VirusTotal to enrich threat intelligence by scanning URLs and IPs, uncovering 3 previously undetected malware/phishing flags, enhancing the
- accuracy of risk assessment.
-  - Produced a comprehensive vulnerability report with detailed findings and actionable recommendations, which reduced potential attack surface by 30% when
- implemented.
-  - Collaborated with the IT team to validate findings and support remediation efforts, improving system security posture within a 2-week remediation cycle.
+---
 
+## 💻 Featured Project
 
+### Open-Source Web Vulnerability Assessment
+- Led a vulnerability assessment of a web application using Nmap, identifying and prioritizing 15+ high-risk vulnerabilities aligned with OWASP Top 10
+- Utilized VirusTotal to scan URLs/IPs, uncovering 3 previously undetected malware/phishing threats
+- Created a detailed vulnerability report and risk mitigation plan, reducing attack surface by 30%
+- Collaborated with IT team to validate findings and implement fixes within a 2-week cycle
 
 ---
 
 ## 🔧 Technical Skills
 
-- **SIEM Tools**: Splunk (Basic), Log Analysis
-- **Programming**: Python (Scripts for automation & ethical hacking)
-- **Networking**: TCP/IP, DNS, VPN, Common Protocols
-- **OS**: Linux (Basic), Windows OS
-- **Frameworks**: MITRE ATT&CK, NIST CSF
-- **Soft Skills**: Communication, Documentation, Problem Solving
+- **SIEM Tools:** Splunk (Basic), Log Analysis
+- **Programming:** Python (Automation & Ethical Hacking)
+- **Networking:** TCP/IP, DNS, VPN, Common Protocols
+- **Operating Systems:** Linux (Basic), Windows
+- **Frameworks:** MITRE ATT&CK, NIST CSF
+- **Soft Skills:** Communication, Documentation, Problem Solving
 
 ---
 
@@ -96,6 +90,7 @@ I’m passionate about defensive security, threat detection, and incident respon
 
 - [📄 Download My Resume](./Cybersecurity_Resume.pdf)
 - [🔗 View my LinkedIn Profile](https://www.linkedin.com/in/c-sai-bala-krishna-5109b5265/)
+
 ---
 
 ## 📝 Blog Highlights
