@@ -49,6 +49,17 @@ I’m passionate about defensive security, threat detection, and incident respon
 - Drafted strategic remediation documents
 - Applied GRC alignment to IAM solutions
 
+### Data Leak Investigation Simulation  
+**Program:** Google Cybersecurity Certificate  
+**Type:** Hands‑on lab activity  
+**Description:**  
+- Investigated unusual file transfers and suspicious access logs  
+- Mapped the leak timeline using metadata  
+- Recommended mitigation steps (privilege reviews, audit logging)  
+- Documented the incident with structured evidence summaries  
+**Skills Applied:**  
+`Incident Response`, `Log Analysis`, `Insider Threat Investigation`, `Security Controls`, `Technical Documentation`  
+
  ## 💻 Featured Project
   ###  Open-Source Web Vulnerability Assessment
   -  Led a vulnerability assessment of a web application using Nmap,  identifying and prioritizing 15+ critical and high-risk vulnerabilities aligned with OWASP
